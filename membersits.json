@@ -1,0 +1,17 @@
+{
+  "urls": {
+    "dev": [
+      "https://admin-dev.loyowo123.net",
+      "https://admin-dev.loyowo.net"
+    ],
+    "test": [
+      "https://api-dev.loyowo123.net",
+      "https://api-dev.loyowo.net"
+    ],
+    "prod": [
+      "https://newmontgroup.shop" 
+    ]
+  },
+  "version": "1.0.0",
+  "versionCode": 100
+}
