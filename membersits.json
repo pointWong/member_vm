@@ -9,7 +9,12 @@
       "https://api-dev.loyowo.net"
     ],
     "prod": [
-      "https://newmontgroup.shop" 
+      "https://newmonts.shop",
+      "https://newmontgroup.shop",
+      "https://newmontvip.shop",
+      "https://newmounts.shop",
+      "https://mountvip.shop",
+      "https://newmontgold.shop"
     ]
   },
   "version": "1.0.0",
